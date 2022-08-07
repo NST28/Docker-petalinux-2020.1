@@ -14,6 +14,12 @@ A somehow generic Xilinx PetaLinux & Vivado Docker image, using Ubuntu 18.04 as
 the base image.
 
 PetaLinux version `2020.1` is the first version handled by this release. For
+# Create a Docker containing Petalinux 2020.1 in Ubuntu 18.04
+
+**The original project from https://github.com/carlesfernandez/docker-petalinux2**
+**I Just modify the Dockerfile to not install Vivado software**
+- - - -
+
 former versions, please check
 [docker-petalinux](https://github.com/carlesfernandez/docker-petalinux).
 
